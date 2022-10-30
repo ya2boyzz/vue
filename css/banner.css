@@ -48,7 +48,8 @@
     color: white;
 }
 .btn:hover{
-    
+    background: var(--orange);
+    color: black;
 }
 .banner__bg{
  position: absolute;
